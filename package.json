@@ -1,7 +1,7 @@
 {
-  "name": "5m_playercount",
-  "version": "1.0.0",
-  "description": "Bot that updates a predefined channel in discord with a current player count of a fivem server.",
+  "name": "fivem_online_count",
+  "version": "2.0.0",
+  "description": "Bot that count fivem online players.",
   "main": "index.js",
   "scripts": {
     "test": "5M=update"
